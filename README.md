@@ -11,11 +11,12 @@ A simple stopwatch application built with HTML, CSS, and JavaScript. The stopwat
 
 ## Demo
 
-![Stopwatch Demo](image.jpg) *(Include a screenshot of your application in action)*
+![Stopwatch Demo](demo.jpg) *(Include a screenshot of your application in action)*
 
 ## Getting Started
 
 ### Prerequisites
+![demo](https://github.com/viswasgupta/PRODIGY_WD_02/assets/118326079/d320f06c-0ad5-44a9-83e7-86562eb7a227)
 
 All you need to run this project is a web browser.
 
@@ -24,13 +25,13 @@ All you need to run this project is a web browser.
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/stopwatch.git
+    git clone https://github.com/viswasgupta/PRODIGY_WD_02.git
     ```
 
 2. Navigate to the project directory:
 
     ```sh
-    cd stopwatch
+    cd PRODIGY_WD_02
     ```
 
 3. Open `index.html` in your web browser:
