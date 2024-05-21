@@ -11,8 +11,8 @@ A simple stopwatch application built with HTML, CSS, and JavaScript. The stopwat
 
 ## Demo
 
-![Stopwatch Demo](demo.jp![demo](https://github.com/viswasgupta/PRODIGY_WD_02/assets/118326079/34d2edae-ac11-4fb7-a554-f49ce58fd2f8)
-g) *(Include a screenshot of your application in action)*
+![Stopwatch Demo](![demo](https://github.com/viswasgupta/PRODIGY_WD_02/assets/118326079/34d2edae-ac11-4fb7-a554-f49ce58fd2f8)
+g) 
 
 ## Getting Started
 
