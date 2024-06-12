@@ -3,8 +3,12 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    font-family: 'Dancing Script', cursive;
+    background-image: url('background2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .stopwatch {
