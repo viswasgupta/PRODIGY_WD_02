@@ -10,9 +10,7 @@ A simple stopwatch application built with HTML, CSS, and JavaScript. The stopwat
 - **Reset**: Reset the stopwatch to 00:00:00 and clear all recorded laps.
 
 ## Demo
-
-![Stopwatch Demo](![demo](https://github.com/viswasgupta/PRODIGY_WD_02/assets/118326079/34d2edae-ac11-4fb7-a554-f49ce58fd2f8)
-g) 
+![demo](https://github.com/viswasgupta/PRODIGY_WD_02/assets/118326079/2245918c-ad9a-4dea-a1f9-188ea5bbd551)
 
 ## Getting Started
 
